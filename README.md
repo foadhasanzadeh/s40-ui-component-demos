@@ -67,9 +67,9 @@ None.
 -------------------------------------------------------------------------------
 The example has been created with NetBeans 7.1.1, Nokia SDK for Java 2.0,
 Nokia SDK for Java 1.1, and Series 40 6th Edition SDK.
-The project can be easily opened in NetBeans by selecting 'Open Project' from
+The project can be easily opened in NetBeans by selecting **Open Project** from
 the File menu and selecting the application. Building is done by selecting
-'Build Project' from the Run menu.
+**Build Project** from the Run menu.
 
 Before opening the project, make sure the Nokia SDK for Java 2.0 and/or Nokia
 SDK for Java 1.1 and/or Series 40 6th Edition SDK is installed and added to
